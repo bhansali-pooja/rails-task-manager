@@ -1,0 +1,22 @@
+// Place all the styles related to the Task controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: https://sass-lang.com/
+.to-do-list {
+  border: 1px blue solid;
+  width: 200px;
+  border-radius: 5px;
+}
+
+li {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: small;
+  position: relative;
+  padding: 6px 4px 6px;
+}
+
+p {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: small;
+  position: relative;
+  padding: 6px 4px 6px;
+}
